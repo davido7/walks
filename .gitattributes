@@ -1,0 +1,4 @@
+# .gitattributes file
+
+# specify file types for encryption 
+*.doc filter=git-crypt diff=git-crypt
