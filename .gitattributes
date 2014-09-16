@@ -2,3 +2,4 @@
 
 # specify file types for encryption 
 *.doc filter=git-crypt diff=git-crypt
+*x.xls filter=git-crypt diff=git-crypt
